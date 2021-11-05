@@ -12,13 +12,7 @@ public class StateResearch {
     percentMay("Ohio.csv");
     percentMay("Alabama.csv");
 
-    // while (sc.hasNextLine()){
-    //   System.out.println(sc.next());
-    //   System.out.println(sc.next());
-    //   System.out.println();
-    //   break;
-    // }
-//17
+
   }
 
   public static void percentSept (String pathname) throws FileNotFoundException{
