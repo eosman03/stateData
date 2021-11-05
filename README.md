@@ -27,4 +27,6 @@
 
 * Through my data, I was attempting to understand how the north of the US vs. the south of the US handled schooling in the past year. I found that numbers for **in person in Ohio were higher than those from Alabama** at **both the beginning and end of the school year**, which is likely also a **theme overall** with comparing the north and the south states during COVID. The two states followed a **similar pace** from the beginning vs. end of the year (similar increases when compared to the beginning of the year).
 
+![my graph here](https://github.com/eosman03/stateData/blob/main/graph.png)
+
 * Some related or additional questions that I would explore would include taking in another data set with the test scores of each state and coding the comparison to test a correlation between the two instead of doing it manually through thought process.
